@@ -6,7 +6,7 @@ class BSTNode:
         self.Parent = parent
         self.LeftChild = None
         self.RightChild = None
-        self.Level = 1
+        self.Level = 0
 
 class BalancedBST:
 
